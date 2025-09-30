@@ -5,7 +5,6 @@
     android:orientation="vertical"
     android:padding="16dp">
 
-    <!-- Title -->
     <TextView
         android:id="@+id/titleText"
         android:layout_width="wrap_content"
@@ -16,14 +15,12 @@
         android:layout_gravity="center"
         android:padding="8dp"/>
 
-    <!-- Input field -->
     <EditText
         android:id="@+id/inputNote"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Type your note here" />
 
-    <!-- Save button -->
     <Button
         android:id="@+id/saveButton"
         android:layout_width="wrap_content"
@@ -31,7 +28,6 @@
         android:text="Save Note"
         android:layout_marginTop="12dp"/>
 
-    <!-- Display saved note -->
     <TextView
         android:id="@+id/displayNote"
         android:layout_width="match_parent"
