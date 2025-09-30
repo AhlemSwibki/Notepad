@@ -1,14 +1,14 @@
-# Mini Notepad App
+# Mini Bloc-notes
 
-A beginner-friendly Android app with 3 basic widgets:
+Une application Android simple pour débutants avec 3 widgets de base :
 
-- **TextView**: Displays the app title and saved notes.
-- **EditText**: Allows user to type a note.
-- **Button**: Saves the note and shows it on screen.
+- **TextView** : Affiche le titre de l’application et les notes enregistrées.  
+- **EditText** : Permet à l’utilisateur de saisir une note.  
+- **Button** : Enregistre la note et l’affiche à l’écran.  
 
-## How it works
-1. Enter text in the input field.
-2. Press the "Save Note" button.
-3. Your note will appear below.
+## Fonctionnement
+1. Saisissez du texte dans le champ de saisie.  
+2. Appuyez sur le bouton **« Enregistrer la note »**.  
+3. Votre note apparaîtra en dessous.  
 
-This project helps beginners learn about layouts, views, and button click listeners in Android.
+Ce projet aide les débutants à apprendre les bases des **layouts**, des **views** et des **listeners de clic** dans Android.  
